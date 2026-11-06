@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+node_modules/
+frontend/miniproyecto/dist/
+frontend/miniproyecto/node_modules/
+*.log
